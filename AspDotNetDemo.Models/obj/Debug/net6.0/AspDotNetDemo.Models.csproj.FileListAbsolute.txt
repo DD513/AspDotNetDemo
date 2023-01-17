@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Models\bin\Debug\net6.0\AspDotNetDemo.Models.deps.json
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Models\bin\Debug\net6.0\AspDotNetDemo.Models.dll
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Models\bin\Debug\net6.0\AspDotNetDemo.Models.pdb
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Models\obj\Debug\net6.0\AspDotNetDemo.Models.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Models\obj\Debug\net6.0\AspDotNetDemo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Models\obj\Debug\net6.0\AspDotNetDemo.Models.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Models\obj\Debug\net6.0\AspDotNetDemo.Models.AssemblyInfo.cs
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Models\obj\Debug\net6.0\AspDotNetDemo.Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Models\obj\Debug\net6.0\AspDotNetDemo.Models.dll
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Models\obj\Debug\net6.0\refint\AspDotNetDemo.Models.dll
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Models\obj\Debug\net6.0\AspDotNetDemo.Models.pdb
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Models\obj\Debug\net6.0\ref\AspDotNetDemo.Models.dll

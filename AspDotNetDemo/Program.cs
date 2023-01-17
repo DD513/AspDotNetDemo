@@ -1,4 +1,4 @@
-using AspDotNetDemo.Data;
+using AspDotNetDemo.DataAccess;  // ­×§ï¦¹³B
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

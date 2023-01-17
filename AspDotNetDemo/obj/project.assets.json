@@ -3149,6 +3149,32 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "AspDotNetDemo.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AspDotNetDemo.Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.8",
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.8",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.8"
+        },
+        "compile": {
+          "bin/placeholder/AspDotNetDemo.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AspDotNetDemo.DataAccess.dll": {}
+        }
+      },
+      "AspDotNetDemo.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AspDotNetDemo.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AspDotNetDemo.Models.dll": {}
+        }
       }
     }
   },
@@ -9693,10 +9719,21 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "AspDotNetDemo.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../AspDotNetDemo.DataAccess/AspDotNetDemo.DataAccess.csproj",
+      "msbuildProject": "../AspDotNetDemo.DataAccess/AspDotNetDemo.DataAccess.csproj"
+    },
+    "AspDotNetDemo.Models/1.0.0": {
+      "type": "project",
+      "path": "../AspDotNetDemo.Models/AspDotNetDemo.Models.csproj",
+      "msbuildProject": "../AspDotNetDemo.Models/AspDotNetDemo.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "AspDotNetDemo.DataAccess >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 6.0.8",
       "Microsoft.EntityFrameworkCore >= 6.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.8",
@@ -9705,23 +9742,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\teng0\\.nuget\\packages\\": {},
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.NET CORE\\AspDotNetDemo\\AspDotNetDemo\\AspDotNetDemo.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo\\AspDotNetDemo.csproj",
       "projectName": "AspDotNetDemo",
-      "projectPath": "E:\\.NET CORE\\AspDotNetDemo\\AspDotNetDemo\\AspDotNetDemo.csproj",
-      "packagesPath": "C:\\Users\\teng0\\.nuget\\packages\\",
-      "outputPath": "E:\\.NET CORE\\AspDotNetDemo\\AspDotNetDemo\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo\\AspDotNetDemo.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\teng0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9735,7 +9772,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.DataAccess\\AspDotNetDemo.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.DataAccess\\AspDotNetDemo.DataAccess.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
