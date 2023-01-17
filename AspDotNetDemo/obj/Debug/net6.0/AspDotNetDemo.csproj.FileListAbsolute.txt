@@ -1,0 +1,1111 @@
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\appsettings.json
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\AspDotNetDemo.staticwebassets.runtime.json
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\AspDotNetDemo.exe
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\AspDotNetDemo.deps.json
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\AspDotNetDemo.runtimeconfig.json
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\AspDotNetDemo.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\AspDotNetDemo.pdb
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.csproj.AssemblyReference.cache
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.AssemblyInfoInputs.cache
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.AssemblyInfo.cs
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.RazorAssemblyInfo.cache
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.RazorAssemblyInfo.cs
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\scopedcss\bundle\AspDotNetDemo.styles.css
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\scopedcss\projectbundle\AspDotNetDemo.bundle.scp.css
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\refint\AspDotNetDemo.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.pdb
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.genruntimeconfig.cache
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\ref\AspDotNetDemo.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.csproj.CopyComplete
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\MessagePack.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\eddy\Desktop\寫書專用\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\appsettings.Development.json
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\appsettings.json
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\AspDotNetDemo.staticwebassets.runtime.json
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\AspDotNetDemo.exe
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\AspDotNetDemo.deps.json
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\AspDotNetDemo.runtimeconfig.json
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\AspDotNetDemo.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\AspDotNetDemo.pdb
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\mscorlib.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\netstandard.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Collections.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Console.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Core.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Data.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Linq.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Memory.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Text.Json.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Web.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Windows.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\WindowsBase.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Humanizer.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\MessagePack.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Build.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.Common.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.csproj.AssemblyReference.cache
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.AssemblyInfoInputs.cache
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.AssemblyInfo.cs
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.csproj.CoreCompileInputs.cache
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.MvcApplicationPartsAssemblyInfo.cs
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.MvcApplicationPartsAssemblyInfo.cache
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.RazorAssemblyInfo.cache
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.RazorAssemblyInfo.cs
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\staticwebassets.build.json
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\staticwebassets.development.json
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\scopedcss\bundle\AspDotNetDemo.styles.css
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\scopedcss\projectbundle\AspDotNetDemo.bundle.scp.css
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.csproj.CopyComplete
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\refint\AspDotNetDemo.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.pdb
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.genruntimeconfig.cache
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\ref\AspDotNetDemo.dll
+E:\.NET CORE\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
