@@ -7,16 +7,16 @@ namespace AspDotNetDemo.Controllers
 {
     public class CategoryController : Controller
     {
-        private readonly ICategoryRepository _db;
+        private readonly IUnitOfWork _unitOfWork;
 
-        public CategoryController(ICategoryRepository db)
+        public CategoryController(IUnitOfWork unitOfWork)
         {
-            _db = db;
+            _unitOfWork = unitOfWork;
         }
 
         public IActionResult Index()
         {
-            IEnumerable<Category> objCategoryList = _db.GetAll();
+            IEnumerable<Category> objCategoryList = _unitOfWork.Category.GetAll();
             return View(objCategoryList);
         }
 
@@ -31,8 +31,8 @@ namespace AspDotNetDemo.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create(Category obj)
         {
-            _db.Add(obj);
-            _db.Save();
+            _unitOfWork.Category.Add(obj);
+            _unitOfWork.Save();
             return RedirectToAction("Index");
         }
 
@@ -46,7 +46,7 @@ namespace AspDotNetDemo.Controllers
 
             //var categoryFromDb = _db.Categories.Find(id);
             //本次修改部分
-            var categoryFromDbFirst = _db.GetFirstOrDefault(u => u.Id == id);
+            var categoryFromDbFirst = _unitOfWork.Category.GetFirstOrDefault(u => u.Id == id);
 
             if (categoryFromDbFirst == null)
             {
@@ -61,8 +61,8 @@ namespace AspDotNetDemo.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Edit(Category obj)
         {
-            _db.Update(obj);
-            _db.Save();
+            _unitOfWork.Category.Update(obj);
+            _unitOfWork.Save();
             return RedirectToAction("Index");
         }
 
@@ -75,7 +75,7 @@ namespace AspDotNetDemo.Controllers
             }
 
             // var categoryFromDb = _db.Categories.Find(id);
-            var categoryFromDbFirst = _db.GetFirstOrDefault(u => u.Id == id);
+            var categoryFromDbFirst = _unitOfWork.Category.GetFirstOrDefault(u => u.Id == id);
 
             if (categoryFromDbFirst == null)
             {
@@ -90,13 +90,13 @@ namespace AspDotNetDemo.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult DeletePOST(int? id)
         {
-            var obj = _db.GetFirstOrDefault(u => u.Id == id);
+            var obj = _unitOfWork.Category.GetFirstOrDefault(u => u.Id == id);
             if(obj == null)
             {
                 return NotFound();
             }
-            _db.Remove(obj);
-            _db.Save();
+            _unitOfWork.Category.Remove(obj);
+            _unitOfWork.Save();
             return RedirectToAction("Index");
         }
     }

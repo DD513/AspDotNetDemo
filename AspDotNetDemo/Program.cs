@@ -11,7 +11,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("DefaultConnection")
     ));
-builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();  //本次新增程式碼
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();  //本次新增程式碼
 builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 
 var app = builder.Build();
