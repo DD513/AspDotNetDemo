@@ -2,8 +2,9 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace AspDotNetDemo.Controllers
+namespace AspDotNetDemo.Areas.Customer.Controllers
 {
+    [Area("Customer")] // 本次新增程式碼
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

@@ -3,8 +3,9 @@ using AspDotNetDemo.DataAccess.Repository.IRepository;
 using AspDotNetDemo.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace AspDotNetDemo.Controllers
+namespace AspDotNetDemo.Areas.Admin.Controllers
 {
+    [Area("Admin")] // 本次新增程式碼
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
@@ -25,7 +26,7 @@ namespace AspDotNetDemo.Controllers
         {
             return View();
         }
-        
+
         //POST
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -39,7 +40,7 @@ namespace AspDotNetDemo.Controllers
         //GET
         public IActionResult Edit(int? id)
         {
-            if(id == null || id == 0)
+            if (id == null || id == 0)
             {
                 return NotFound();
             }
@@ -86,12 +87,12 @@ namespace AspDotNetDemo.Controllers
         }
 
         //POST
-        [HttpPost,ActionName("Delete")]
+        [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public IActionResult DeletePOST(int? id)
         {
             var obj = _unitOfWork.Category.GetFirstOrDefault(u => u.Id == id);
-            if(obj == null)
+            if (obj == null)
             {
                 return NotFound();
             }
