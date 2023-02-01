@@ -15,3 +15,20 @@ C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.DataAc
 C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\ref\AspDotNetDemo.DataAccess.dll
 C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\bin\Debug\net6.0\AspDotNetDemo.DataAccess.runtimeconfig.json
 C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.genruntimeconfig.cache
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\bin\Debug\net6.0\AspDotNetDemo.DataAccess.deps.json
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\bin\Debug\net6.0\AspDotNetDemo.DataAccess.runtimeconfig.json
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\bin\Debug\net6.0\AspDotNetDemo.DataAccess.dll
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\bin\Debug\net6.0\AspDotNetDemo.DataAccess.pdb
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\bin\Debug\net6.0\AspDotNetDemo.Models.dll
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\bin\Debug\net6.0\AspDotNetDemo.Models.pdb
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.csproj.AssemblyReference.cache
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.AssemblyInfoInputs.cache
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.AssemblyInfo.cs
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.csproj.CoreCompileInputs.cache
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.csproj.CopyComplete
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.dll
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\refint\AspDotNetDemo.DataAccess.dll
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.pdb
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.genruntimeconfig.cache
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\ref\AspDotNetDemo.DataAccess.dll

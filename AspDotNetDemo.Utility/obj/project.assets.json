@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {},
+    "C:\\Users\\teng0\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Utility\\AspDotNetDemo.Utility.csproj",
+      "projectUniqueName": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.Utility\\AspDotNetDemo.Utility.csproj",
       "projectName": "AspDotNetDemo.Utility",
-      "projectPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Utility\\AspDotNetDemo.Utility.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Utility\\obj\\",
+      "projectPath": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.Utility\\AspDotNetDemo.Utility.csproj",
+      "packagesPath": "C:\\Users\\teng0\\.nuget\\packages\\",
+      "outputPath": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\teng0\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
