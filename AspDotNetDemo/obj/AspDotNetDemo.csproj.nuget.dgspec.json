@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo\\AspDotNetDemo.csproj": {}
+    "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo\\AspDotNetDemo.csproj": {}
   },
   "projects": {
-    "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.DataAccess\\AspDotNetDemo.DataAccess.csproj": {
+    "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.DataAccess\\AspDotNetDemo.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.DataAccess\\AspDotNetDemo.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.DataAccess\\AspDotNetDemo.DataAccess.csproj",
         "projectName": "AspDotNetDemo.DataAccess",
-        "projectPath": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.DataAccess\\AspDotNetDemo.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\teng0\\.nuget\\packages\\",
-        "outputPath": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.DataAccess\\AspDotNetDemo.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\teng0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj": {
-                "projectPath": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj"
+              "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj"
               }
             }
           }
@@ -86,20 +86,20 @@
         }
       }
     },
-    "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj": {
+    "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj",
         "projectName": "AspDotNetDemo.Models",
-        "projectPath": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj",
-        "packagesPath": "C:\\Users\\teng0\\.nuget\\packages\\",
-        "outputPath": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.Models\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\teng0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -144,20 +144,20 @@
         }
       }
     },
-    "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo\\AspDotNetDemo.csproj": {
+    "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo\\AspDotNetDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo\\AspDotNetDemo.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo\\AspDotNetDemo.csproj",
         "projectName": "AspDotNetDemo",
-        "projectPath": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo\\AspDotNetDemo.csproj",
-        "packagesPath": "C:\\Users\\teng0\\.nuget\\packages\\",
-        "outputPath": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo\\AspDotNetDemo.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\teng0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -172,8 +172,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.DataAccess\\AspDotNetDemo.DataAccess.csproj": {
-                "projectPath": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.DataAccess\\AspDotNetDemo.DataAccess.csproj"
+              "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.DataAccess\\AspDotNetDemo.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.DataAccess\\AspDotNetDemo.DataAccess.csproj"
               }
             }
           }

@@ -1212,7 +1212,6 @@ C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo\bin\De
 C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
 C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
@@ -2229,3 +2228,4 @@ E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDot
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDotNetDemo.genruntimeconfig.cache
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\ref\AspDotNetDemo.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll

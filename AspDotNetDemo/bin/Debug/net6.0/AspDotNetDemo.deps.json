@@ -35,7 +35,7 @@
       "AspDotNetDemo/1.0.0": {
         "dependencies": {
           "AspDotNetDemo.DataAccess": "1.0.0",
-          "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "5.0.17",
+          "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "6.0.13",
           "Microsoft.EntityFrameworkCore": "6.0.13",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.13",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.13",
@@ -375,42 +375,42 @@
         }
       },
       "MessagePackAnalyzer/2.1.152": {},
-      "Microsoft.AspNetCore.Mvc.Razor.Extensions/5.0.17": {
+      "Microsoft.AspNetCore.Mvc.Razor.Extensions/6.0.13": {
         "dependencies": {
-          "Microsoft.AspNetCore.Razor.Language": "6.0.0",
-          "Microsoft.CodeAnalysis.Razor": "6.0.0"
+          "Microsoft.AspNetCore.Razor.Language": "6.0.13",
+          "Microsoft.CodeAnalysis.Razor": "6.0.13"
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll": {
-            "assemblyVersion": "5.0.17.0",
-            "fileVersion": "5.0.1722.21507"
+            "assemblyVersion": "6.0.13.0",
+            "fileVersion": "6.0.1322.58013"
           }
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation/5.0.17": {
+      "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation/6.0.13": {
         "dependencies": {
-          "Microsoft.AspNetCore.Mvc.Razor.Extensions": "5.0.17",
-          "Microsoft.CodeAnalysis.Razor": "6.0.0",
-          "Microsoft.Extensions.DependencyModel": "5.0.0"
+          "Microsoft.AspNetCore.Mvc.Razor.Extensions": "6.0.13",
+          "Microsoft.CodeAnalysis.Razor": "6.0.13",
+          "Microsoft.Extensions.DependencyModel": "6.0.0"
         },
         "runtime": {
-          "lib/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll": {
-            "assemblyVersion": "5.0.17.0",
-            "fileVersion": "5.0.1722.21507"
+          "lib/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll": {
+            "assemblyVersion": "6.0.13.0",
+            "fileVersion": "6.0.1322.58013"
           }
         },
         "compile": {
-          "lib/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll": {}
+          "lib/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Razor.Language/6.0.0": {
+      "Microsoft.AspNetCore.Razor.Language/6.0.13": {
         "runtime": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.Language.dll": {
-            "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.21.52608"
+            "assemblyVersion": "6.0.13.0",
+            "fileVersion": "6.0.1322.58013"
           }
         },
         "compile": {
@@ -830,16 +830,16 @@
           "lib/netcoreapp3.1/Microsoft.CodeAnalysis.Features.dll": {}
         }
       },
-      "Microsoft.CodeAnalysis.Razor/6.0.0": {
+      "Microsoft.CodeAnalysis.Razor/6.0.13": {
         "dependencies": {
-          "Microsoft.AspNetCore.Razor.Language": "6.0.0",
+          "Microsoft.AspNetCore.Razor.Language": "6.0.13",
           "Microsoft.CodeAnalysis.CSharp": "4.0.0",
           "Microsoft.CodeAnalysis.Common": "4.0.0"
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.CodeAnalysis.Razor.dll": {
-            "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.21.52608"
+            "assemblyVersion": "6.0.13.0",
+            "fileVersion": "6.0.1322.58013"
           }
         },
         "compile": {
@@ -1412,11 +1412,18 @@
         }
       },
       "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {},
-      "Microsoft.Extensions.DependencyModel/5.0.0": {
+      "Microsoft.Extensions.DependencyModel/6.0.0": {
+        "dependencies": {
+          "System.Buffers": "4.5.1",
+          "System.Memory": "4.5.5",
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0",
+          "System.Text.Encodings.Web": "6.0.0",
+          "System.Text.Json": "6.0.0"
+        },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
-            "assemblyVersion": "5.0.0.0",
-            "fileVersion": "5.0.20.51904"
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
           }
         },
         "compile": {
@@ -1637,9 +1644,9 @@
       },
       "Microsoft.VisualStudio.Web.CodeGeneration.Templating/6.0.11": {
         "dependencies": {
-          "Microsoft.AspNetCore.Razor.Language": "6.0.0",
+          "Microsoft.AspNetCore.Razor.Language": "6.0.13",
           "Microsoft.CodeAnalysis.CSharp": "4.0.0",
-          "Microsoft.CodeAnalysis.Razor": "6.0.0",
+          "Microsoft.CodeAnalysis.Razor": "6.0.13",
           "Microsoft.VisualStudio.Web.CodeGeneration.Utils": "6.0.11",
           "NuGet.Packaging": "6.3.1",
           "System.Configuration.ConfigurationManager": "6.0.0",
@@ -1968,15 +1975,7 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "System.Buffers/4.3.0": {
-        "dependencies": {
-          "System.Diagnostics.Debug": "4.3.0",
-          "System.Diagnostics.Tracing": "4.3.0",
-          "System.Resources.ResourceManager": "4.3.0",
-          "System.Runtime": "4.3.0",
-          "System.Threading": "4.3.0"
-        }
-      },
+      "System.Buffers/4.5.1": {},
       "System.Collections/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.1",
@@ -2257,7 +2256,7 @@
       "System.IO.Compression/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.1",
-          "System.Buffers": "4.3.0",
+          "System.Buffers": "4.5.1",
           "System.Collections": "4.3.0",
           "System.Diagnostics.Debug": "4.3.0",
           "System.IO": "4.3.0",
@@ -2275,7 +2274,7 @@
       },
       "System.IO.Compression.ZipFile/4.3.0": {
         "dependencies": {
-          "System.Buffers": "4.3.0",
+          "System.Buffers": "4.5.1",
           "System.IO": "4.3.0",
           "System.IO.Compression": "4.3.0",
           "System.IO.FileSystem": "4.3.0",
@@ -4588,26 +4587,26 @@
       "path": "messagepackanalyzer/2.1.152",
       "hashPath": "messagepackanalyzer.2.1.152.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Mvc.Razor.Extensions/5.0.17": {
+    "Microsoft.AspNetCore.Mvc.Razor.Extensions/6.0.13": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-wLdOlzlUg7r21g4CowBfacP9Zm8ML1IlEXK1GjOWiq0YM6Qqtx9c9RgPmGFCrLfvxY2R8gnRjuS2SgI4P0189g==",
-      "path": "microsoft.aspnetcore.mvc.razor.extensions/5.0.17",
-      "hashPath": "microsoft.aspnetcore.mvc.razor.extensions.5.0.17.nupkg.sha512"
+      "sha512": "sha512-tP4T3NldkvkVUqEOZGBfJ1FzJXzxzVbw2CeeZAeM9I4lgXJDVw1VTA9a7jkHfLshYANvfCHU/5B1YPG6P4E6/w==",
+      "path": "microsoft.aspnetcore.mvc.razor.extensions/6.0.13",
+      "hashPath": "microsoft.aspnetcore.mvc.razor.extensions.6.0.13.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation/5.0.17": {
+    "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation/6.0.13": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-COGQj58i4z+DkdrIuiooarHdkEzkavKAvDi65606dH1mQlEm/kjMK8gN8rBIH5Xkkeyxjpr8wKep1t5jK5Z6xQ==",
-      "path": "microsoft.aspnetcore.mvc.razor.runtimecompilation/5.0.17",
-      "hashPath": "microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.17.nupkg.sha512"
+      "sha512": "sha512-EHZR6ossEi9b6rweIaazlzQ9zroicvG7zGI0ht4CFN8sw/yT1KUCTLEBALmn5hGEtjFaxy+n7eqymgXtSCgQJg==",
+      "path": "microsoft.aspnetcore.mvc.razor.runtimecompilation/6.0.13",
+      "hashPath": "microsoft.aspnetcore.mvc.razor.runtimecompilation.6.0.13.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Razor.Language/6.0.0": {
+    "Microsoft.AspNetCore.Razor.Language/6.0.13": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-yCtBr1GSGzJrrp1NJUb4ltwFYMKHw/tJLnIDvg9g/FnkGIEzmE19tbCQqXARIJv5kdtBgsoVIdGLL+zmjxvM/A==",
-      "path": "microsoft.aspnetcore.razor.language/6.0.0",
-      "hashPath": "microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512"
+      "sha512": "sha512-lCsMy5Ob9eruSIssY6nMSxmUC3HAN+neuO2HhrkFoNXXyCkBOAaghh3rwxPl84aIK0Cldyjm0RLOq6A2dEgLvw==",
+      "path": "microsoft.aspnetcore.razor.language/6.0.13",
+      "hashPath": "microsoft.aspnetcore.razor.language.6.0.13.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/5.0.0": {
       "type": "package",
@@ -4686,12 +4685,12 @@
       "path": "microsoft.codeanalysis.features/4.0.0",
       "hashPath": "microsoft.codeanalysis.features.4.0.0.nupkg.sha512"
     },
-    "Microsoft.CodeAnalysis.Razor/6.0.0": {
+    "Microsoft.CodeAnalysis.Razor/6.0.13": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-uqdzuQXxD7XrJCbIbbwpI/LOv0PBJ9VIR0gdvANTHOfK5pjTaCir+XcwvYvBZ5BIzd0KGzyiamzlEWw1cK1q0w==",
-      "path": "microsoft.codeanalysis.razor/6.0.0",
-      "hashPath": "microsoft.codeanalysis.razor.6.0.0.nupkg.sha512"
+      "sha512": "sha512-f4i/5pozU5tkbPaqhENwbfP2S5y1jso+4l3O+XsOdJC3P7ySa3foCsuJgHZi0W/jw/C0qk1ev7fdfnrCIck9lw==",
+      "path": "microsoft.codeanalysis.razor/6.0.13",
+      "hashPath": "microsoft.codeanalysis.razor.6.0.13.nupkg.sha512"
     },
     "Microsoft.CodeAnalysis.Scripting.Common/4.0.0": {
       "type": "package",
@@ -4854,12 +4853,12 @@
       "path": "microsoft.extensions.dependencyinjection.abstractions/6.0.0",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
     },
-    "Microsoft.Extensions.DependencyModel/5.0.0": {
+    "Microsoft.Extensions.DependencyModel/6.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-umBECCoMC+sOUgm083yFr8SxTobUOcPFH4AXigdO2xJiszCHAnmeDl4qPphJt+oaJ/XIfV1wOjIts2nRnki61Q==",
-      "path": "microsoft.extensions.dependencymodel/5.0.0",
-      "hashPath": "microsoft.extensions.dependencymodel.5.0.0.nupkg.sha512"
+      "sha512": "sha512-TD5QHg98m3+QhgEV1YVoNMl5KtBw/4rjfxLHO0e/YV9bPUBDKntApP4xdrVtGgCeQZHVfC2EXIGsdpRNrr87Pg==",
+      "path": "microsoft.extensions.dependencymodel/6.0.0",
+      "hashPath": "microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512"
     },
     "Microsoft.Extensions.Logging/6.0.0": {
       "type": "package",
@@ -5225,12 +5224,12 @@
       "path": "system.appcontext/4.3.0",
       "hashPath": "system.appcontext.4.3.0.nupkg.sha512"
     },
-    "System.Buffers/4.3.0": {
+    "System.Buffers/4.5.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ratu44uTIHgeBeI0dE8DWvmXVBSo4u7ozRZZHOMmK/JPpYyo0dAfgSiHlpiObMQ5lEtEyIXA40sKRYg5J6A8uQ==",
-      "path": "system.buffers/4.3.0",
-      "hashPath": "system.buffers.4.3.0.nupkg.sha512"
+      "sha512": "sha512-Rw7ijyl1qqRS0YQD/WycNst8hUUMgrMH4FCn1nNm27M4VxchZ1js3fVjQaANHO5f3sN4isvP4a+Met9Y4YomAg==",
+      "path": "system.buffers/4.5.1",
+      "hashPath": "system.buffers.4.5.1.nupkg.sha512"
     },
     "System.Collections/4.3.0": {
       "type": "package",
