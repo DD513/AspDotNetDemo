@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f6GKUOgibyiOGjpoRdIgzGyKAWQ7NxcN3+zdLlheKXY=",
+  "Hash": "bRnjrFnXNFmUGj7xfePe4Vjwue+XZ2550Rk6R8E4vH0=",
   "Source": "AspDotNetDemo",
   "BasePath": "_content/AspDotNetDemo",
   "Mode": "Default",
@@ -102,12 +102,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo\\wwwroot\\images\\products\\2b0d0448-2367-4dd7-8ccb-dc7d60129426.jpg",
+      "Identity": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo\\wwwroot\\images\\products\\2fe5f7e5-ef10-424b-acf8-98dc14084ec5.jpg",
       "SourceId": "AspDotNetDemo",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo\\wwwroot\\",
       "BasePath": "_content/AspDotNetDemo",
-      "RelativePath": "images/products/2b0d0448-2367-4dd7-8ccb-dc7d60129426.jpg",
+      "RelativePath": "images/products/2fe5f7e5-ef10-424b-acf8-98dc14084ec5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,7 +116,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\2b0d0448-2367-4dd7-8ccb-dc7d60129426.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\2fe5f7e5-ef10-424b-acf8-98dc14084ec5.jpg"
     },
     {
       "Identity": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo\\wwwroot\\images\\products\\374d5b03-e6c6-428b-a9ea-287bed06d4c7.jpg",
@@ -151,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\3b269895-7e85-47ed-940e-2bf2dafe112d.jpg"
+    },
+    {
+      "Identity": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo\\wwwroot\\images\\products\\62e44ef1-b64d-4da5-8703-35a04fd9815c.jpg",
+      "SourceId": "AspDotNetDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo\\wwwroot\\",
+      "BasePath": "_content/AspDotNetDemo",
+      "RelativePath": "images/products/62e44ef1-b64d-4da5-8703-35a04fd9815c.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\62e44ef1-b64d-4da5-8703-35a04fd9815c.jpg"
     },
     {
       "Identity": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo\\wwwroot\\images\\products\\b5dccac5-4c9b-4fba-93e4-9e538151626c.jpg",
