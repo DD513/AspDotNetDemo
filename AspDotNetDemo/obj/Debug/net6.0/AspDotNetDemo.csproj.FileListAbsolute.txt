@@ -2229,3 +2229,5 @@ E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\AspDot
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\obj\Debug\net6.0\ref\AspDotNetDemo.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

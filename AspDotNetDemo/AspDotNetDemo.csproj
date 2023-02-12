@@ -21,4 +21,8 @@
     <ProjectReference Include="..\AspDotNetDemo.DataAccess\AspDotNetDemo.DataAccess.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\products\" />
+  </ItemGroup>
+
 </Project>
