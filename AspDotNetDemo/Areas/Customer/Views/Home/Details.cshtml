@@ -1,64 +1,41 @@
 ﻿@model ShoppingCart
 
 <form method="post">
-        <div class="card  container pt-4">
-            <div class="card-header bg-primary text-light ml-0  row ">
+        <div class="card container mt-5">
+            <div class="card-header bg-primary row align-items-center">
                 <div class="col-12 col-md-6">
-                    <h1 class="text-white-50">@Model.Product.Name</h1>
-                    @*<p class="text-warning">by Author</p>*@
+                    <h3 class="text-white mb-0">@Model.Product.Name</h3>
                 </div>
-                <div class="col-12 col-md-6 text-end pt-4">
-                    @*<span class="badge bg-info pt-2" style="height:30px;">CoverType</span>*@
-                    <span class="badge bg-warning pt-2" style="height:30px;">@Model.Product.Category.Name</span>
+                <div class="col-12 col-md-6 text-end">
+                    <span class="badge bg-info"><h6 class="mb-0">@Model.Product.Category.Name</h6></span>
                 </div>
             </div>
             <div class="card-body row container">
                 <div class="container rounded p-2">
-                    <div class="row">
-                        <div class="col-8 col-lg-8">
-
-                            <div class="row pl-2">
-                                <h5 class="text-muted">Size：@Model.Product.Size</h5>
+                    <div class="row align-items-center justify-content-center">
+                        <div class="col-7 col-lg-7">
+                            <div class="row">
+                                <h5 class="my-2">飲料尺寸：@Model.Product.Size</h5>
                             </div>
-                            <div class="row pl-2">
-                                <h5 class="text-muted pb-2">List Price: <strike>@Model.Product.Price.ToString("c")</strike></h5>
+                            <div class="row">
+                                <h5 class="my-2">飲料價錢：<strike><span class="text-danger fw-bold">@Model.Product.Price.ToString("c")</span></strike></h5>
                             </div>
-                            @*<div class="row text-center pl-2">
-                                <div class="p-1 col-2 bg-secondary border-bottom">
-                                    <div>Quantity</div>
+                            <div class="row text-center text-white mx-0  my-2">
+                                <div class="col-3 bg-dark">
+                                    <p class="mb-0 py-1">價格</p>
                                 </div>
-                                <div class="p-1 col-2 bg-secondary border-bottom">
-                                    <div>1-50</div>
-                                </div>
-                                <div class="p-1 col-2 bg-secondary border-bottom">
-                                    <div>51-100</div>
-                                </div>
-                                <div class="p-1 col-2 bg-secondary border-bottom">
-                                    <div>100+</div>
-                                </div>
-                            </div>*@
-                            <div class="row text-center pl-2" style="color:maroon; font-weight:bold">
-                                <div class="p-1 col-2 bg-secondary">
-                                    <div>Price</div>
-                                </div>
-                                <div class="p-1 col-2 bg-secondary">
-                                    <div>
+                                <div class="col-3 bg-secondary">
+                                    <p class="mb-0 py-1">
                                         @Model.Product.Price.ToString("c")
-                                    </div>
+                                    </p>
                                 </div>
-                                @*<div class="p-1 col-2 bg-secondary">
-                                    <div>$$</div>
-                                </div>
-                                <div class="p-1 col-2 bg-secondary">
-                                    <div>$$</div>
-                                </div>*@
                             </div>
-                            <div class="row pl-2">
-                                <p class="text-secondary">@Model.Product.Description</p>
+                            <div class="row">
+                                <p class="my-2 text-secondary">@Model.Product.Description</p>
                             </div>
-                            <div class="row pl-2">
-                                <div class="col-2 text-primary"><h4>Count</h4></div>
-                                <div class="col-10"><input asp-for="Count" class="form-control"  /></div>
+                            <div class="row align-items-center mt-3">
+                                <div class="col-2 text-primary"><h5 class="mb-0">數量</h5></div>
+                                <div class="col-6"><input asp-for="Count" class="form-control"/></div>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3 offset-lg-1 text-center">
@@ -67,13 +44,13 @@
                     </div>
                 </div>
             </div>
-            <div class="card-footer">
-                <div class="row">
+            <div class="card-footer bg-white">
+                <div class="row align-items-center">
                     <div class="col-12 col-md-6 pb-1">
-                        <a class="btn btn-success form-control" style="height:50px;" asp-action="Index">Back to List</a>
+                        <a class="btn btn-light form-control text-primary d-flex justify-content-center align-items-center" style="height:50px;" asp-action="Index">返回列表</a>
                     </div>
                     <div class="col-12 col-md-6 pb-1">
-                        <button type="submit" value="Add to Cart" class="btn btn-primary form-control" style="height:50px;">Add to Cart</button>
+                        <button type="submit" value="Add to Cart" class="btn btn-primary form-control" style="height:50px;">加入購物車</button>
                     </div>
                 </div>
             </div>

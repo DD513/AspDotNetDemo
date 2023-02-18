@@ -32,3 +32,20 @@ E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\ne
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.pdb
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.genruntimeconfig.cache
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\ref\AspDotNetDemo.DataAccess.dll
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\bin\Debug\net6.0\AspDotNetDemo.DataAccess.deps.json
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\bin\Debug\net6.0\AspDotNetDemo.DataAccess.runtimeconfig.json
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\bin\Debug\net6.0\AspDotNetDemo.DataAccess.dll
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\bin\Debug\net6.0\AspDotNetDemo.DataAccess.pdb
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\bin\Debug\net6.0\AspDotNetDemo.Models.dll
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\bin\Debug\net6.0\AspDotNetDemo.Models.pdb
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.csproj.AssemblyReference.cache
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.AssemblyInfo.cs
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.csproj.CopyComplete
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.dll
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\refint\AspDotNetDemo.DataAccess.dll
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.pdb
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.genruntimeconfig.cache
+C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\ref\AspDotNetDemo.DataAccess.dll

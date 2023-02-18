@@ -10,7 +10,7 @@ function loadDataTable() {
             "url": "/Admin/Product/GetAll",
         },
         "columns": [//注意這裡的欄位數量要跟html的欄位數量相同，否則會報錯
-            { "data": "name", "width": "15%" },
+            { "data": "name", "width": "15%"},
             { "data": "size", "width": "15%" },
             { "data": "category.name", "width": "15%" },
             { "data": "price", "width": "15%" },

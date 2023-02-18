@@ -1,5 +1,8 @@
 html {
   font-size: 14px;
+  padding:0;
+  margin:0;
+  box-sizing:border-box;
 }
 
 @media (min-width: 768px) {
@@ -8,11 +11,14 @@ html {
   }
 }
 
-html {
-  position: relative;
-  min-height: 100%;
+html,body{
+    height:100%;
 }
 
-body {
-  margin-bottom: 60px;
+.content {
+    min-height: calc(100% - 96px); /*最小高度設100%扣掉header和footer*/
+}
+
+td{
+    vertical-align:middle; /*表格內儲存格垂直置中*/
 }

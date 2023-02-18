@@ -6353,24 +6353,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\LDS-ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj",
+      "projectUniqueName": "C:\\Users\\LDS-ASUS\\Desktop\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj",
       "projectName": "AspDotNetDemo.Models",
-      "projectPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\obj\\",
+      "projectPath": "C:\\Users\\LDS-ASUS\\Desktop\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj",
+      "packagesPath": "C:\\Users\\LDS-ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LDS-ASUS\\Desktop\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\LDS-ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
