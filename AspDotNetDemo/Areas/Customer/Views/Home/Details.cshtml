@@ -15,27 +15,98 @@
                     <div class="row align-items-center justify-content-center">
                         <div class="col-7 col-lg-7">
                             <div class="row">
-                                <h5 class="my-2">飲料尺寸：@Model.Product.Size</h5>
+                                <h5 class="my-2 py-3 bg-light">飲料尺寸 Size</h5>
+                                <h5 class="my-2">@Model.Product.Size</h5>
                             </div>
                             <div class="row">
-                                <h5 class="my-2">飲料價錢：<strike><span class="text-danger fw-bold">@Model.Product.Price.ToString("c")</span></strike></h5>
-                            </div>
-                            <div class="row text-center text-white mx-0  my-2">
-                                <div class="col-3 bg-dark">
-                                    <p class="mb-0 py-1">價格</p>
-                                </div>
-                                <div class="col-3 bg-secondary">
-                                    <p class="mb-0 py-1">
-                                        @Model.Product.Price.ToString("c")
-                                    </p>
-                                </div>
+                                <h5 class="my-2 py-3 bg-light">飲料價錢 Price</h5>
+                                <h5 class="my-2"><span class="text-danger fw-bold">@Model.Product.Price.ToString("c")</span></h5>
                             </div>
                             <div class="row">
+                                <h5 class="my-2 py-3 bg-light">描述 Description</h5>
                                 <p class="my-2 text-secondary">@Model.Product.Description</p>
                             </div>
                             <div class="row align-items-center mt-3">
-                                <div class="col-2 text-primary"><h5 class="mb-0">數量</h5></div>
+                                <h5 class="my-2 py-3 bg-light">數量 Count</h5>
                                 <div class="col-6"><input asp-for="Count" class="form-control"/></div>
+                            </div>
+                            <div class="row">
+                                <h5 class="my-2 py-3 bg-light">冰量 Ice Level</h5>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="iceLevel" id="regularIce" checked>
+                                    <label class="form-check-label" for="regularIce">
+                                        正常冰 Regular Ice
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="iceLevel" id="lessIce">
+                                    <label class="form-check-label" for="lessIce">
+                                        少冰 Less Ice
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="iceLevel" id="easyIce">
+                                    <label class="form-check-label" for="easyIce">
+                                        微冰 Easy Ice
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="iceLevel" id="iceFree">
+                                    <label class="form-check-label" for="iceFree">
+                                        去冰 Ice-Free
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="iceLevel" id="warm">
+                                    <label class="form-check-label" for="warm">
+                                        溫 Warm
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="iceLevel" id="hot">
+                                    <label class="form-check-label" for="hot">
+                                        熱 Hot
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <h5 class="my-2 py-3 bg-light">甜度 Sweetness Level</h5>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="sweetnessLevel" id="regularSugar" checked>
+                                    <label class="form-check-label" for="regularSugar">
+                                        正常甜 Regular Sugar
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="sweetnessLevel" id="lessSugar">
+                                    <label class="form-check-label" for="lessSugar">
+                                        少糖 Less Sugar
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="sweetnessLevel" id="halfSugar">
+                                    <label class="form-check-label" for="halfSugar">
+                                        半糖 Half Sugar
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="sweetnessLevel" id="quarterSugar">
+                                    <label class="form-check-label" for="quarterSugar">
+                                        微糖 Quarter Sugar
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="sweetnessLevel" id="sugarFree">
+                                    <label class="form-check-label" for="sugarFree">
+                                        無糖 Sugar-Free
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="sweetnessLevel" id="hot">
+                                    <label class="form-check-label" for="hot">
+                                        熱 Hot
+                                    </label>
+                                </div>
                             </div>
                         </div>
                         <div class="col-12 col-lg-3 offset-lg-1 text-center">
