@@ -13,6 +13,9 @@ namespace AspDotNetDemo.DataAccess.Repository.IRepository
         ICoverTypeRepository CoverType { get; }
         IProductRepository Product { get; }
         ICompanyRepository Company { get; }
+        //本次新增部分
+        IShoppingCartRepository ShoppingCart { get; }
+        IApplicationUserRepository ApplicationUser { get; }
         void Save();
     }
 }

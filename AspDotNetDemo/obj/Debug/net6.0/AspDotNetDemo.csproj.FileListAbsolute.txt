@@ -1687,8 +1687,6 @@ E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\M
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
-E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -1771,14 +1769,11 @@ E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\M
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
-E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
-E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
-E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
 E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
@@ -2797,3 +2792,14 @@ C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo\bin\De
 C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\AspDotNetDemo.Utility.dll
 C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\AspDotNetDemo.Utility.pdb
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\AspDotNetDemo.Utility.dll
+E:\.NET CORE\新增資料夾\AspDotNetDemo\AspDotNetDemo\bin\Debug\net6.0\AspDotNetDemo.Utility.pdb

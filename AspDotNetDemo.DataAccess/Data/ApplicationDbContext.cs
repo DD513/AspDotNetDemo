@@ -16,5 +16,7 @@ namespace AspDotNetDemo.DataAccess
         public DbSet<Product> Products { get; set; }
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
         public DbSet<Company> Companies { get; set; }
+        //本次新增部分
+        public DbSet<ShoppingCart> ShoppingCarts { get; set; }
     }
 }

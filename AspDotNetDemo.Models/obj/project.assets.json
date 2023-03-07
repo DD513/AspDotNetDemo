@@ -6590,23 +6590,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {},
+    "C:\\Users\\teng0\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj",
+      "projectUniqueName": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj",
       "projectName": "AspDotNetDemo.Models",
-      "projectPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\obj\\",
+      "projectPath": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj",
+      "packagesPath": "C:\\Users\\teng0\\.nuget\\packages\\",
+      "outputPath": "E:\\.NET CORE\\新增資料夾\\AspDotNetDemo\\AspDotNetDemo.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\teng0\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6615,7 +6615,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.nuget.org/api/v2": {}
       },
       "frameworks": {
         "net6.0": {

@@ -23,9 +23,14 @@ namespace AspDotNetDemo.DataAccess.Repository
             dbSet.Add(entity);
         }
 
-        public IEnumerable<T> GetAll(string? includeProperties = null) //本次修改部分
+        public IEnumerable<T> GetAll(Expression<Func<T, bool>>? filter = null, string? includeProperties = null) //本次修改部分
         {
             IQueryable<T> query = dbSet;
+            if (filter != null)// 本次修改部分
+            {
+                query = query.Where(filter);
+
+            }
             if (includeProperties != null)
             {
                 foreach (var includeProp in includeProperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
@@ -36,7 +41,7 @@ namespace AspDotNetDemo.DataAccess.Repository
             return query.ToList();
         }
 
-        public T GetFirstOrDefault(Expression<Func<T, bool>> filter, string? includeProperties = null) //本次修改部分
+        public T GetFirstOrDefault(Expression<Func<T, bool>> filter, string? includeProperties = null)
         {
             IQueryable<T> query = dbSet;
             query = query.Where(filter);
