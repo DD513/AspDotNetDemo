@@ -1,6 +1,7 @@
 ﻿@model ShoppingCart
 
 <form method="post">
+    <input hidden asp-for="ProductId" />
         <div class="card container mt-5">
             <div class="card-header bg-primary row align-items-center">
                 <div class="col-12 col-md-6">
@@ -33,37 +34,37 @@
                             <div class="row">
                                 <h5 class="my-2 py-3 bg-light">冰量 Ice Level</h5>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="iceLevel" id="regularIce" checked>
+                                    <input class="form-check-input" type="radio" name="ice" id="regularIce" value="正常冰 regularIce" checked>
                                     <label class="form-check-label" for="regularIce">
                                         正常冰 Regular Ice
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="iceLevel" id="lessIce">
+                                    <input class="form-check-input" type="radio" name="ice" id="lessIce" value="少冰 Less Ice">
                                     <label class="form-check-label" for="lessIce">
                                         少冰 Less Ice
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="iceLevel" id="easyIce">
+                                    <input class="form-check-input" type="radio" name="ice" id="easyIce" value="微冰 Easy Ice">
                                     <label class="form-check-label" for="easyIce">
                                         微冰 Easy Ice
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="iceLevel" id="iceFree">
+                                    <input class="form-check-input" type="radio" name="ice" id="iceFree" value="去冰 Ice-Free">
                                     <label class="form-check-label" for="iceFree">
                                         去冰 Ice-Free
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="iceLevel" id="warm">
+                                    <input class="form-check-input" type="radio" name="ice" id="warm" value="溫 Warm">
                                     <label class="form-check-label" for="warm">
                                         溫 Warm
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="iceLevel" id="hot">
+                                    <input class="form-check-input" type="radio" name="ice" id="hot" value="熱 Hot">
                                     <label class="form-check-label" for="hot">
                                         熱 Hot
                                     </label>
@@ -72,39 +73,33 @@
                             <div class="row">
                                 <h5 class="my-2 py-3 bg-light">甜度 Sweetness Level</h5>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="sweetnessLevel" id="regularSugar" checked>
+                                    <input class="form-check-input" type="radio" name="sweetness" id="regularSugar" value="正常甜 Regular Sugar" checked>
                                     <label class="form-check-label" for="regularSugar">
                                         正常甜 Regular Sugar
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="sweetnessLevel" id="lessSugar">
+                                    <input class="form-check-input" type="radio" name="sweetness" id="lessSugar" value="少糖 Less Sugar">
                                     <label class="form-check-label" for="lessSugar">
                                         少糖 Less Sugar
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="sweetnessLevel" id="halfSugar">
+                                    <input class="form-check-input" type="radio" name="sweetness" id="halfSugar" value="半糖 Half Sugar">
                                     <label class="form-check-label" for="halfSugar">
                                         半糖 Half Sugar
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="sweetnessLevel" id="quarterSugar">
+                                    <input class="form-check-input" type="radio" name="sweetness" id="quarterSugar" value="微糖 Quarter Sugar">
                                     <label class="form-check-label" for="quarterSugar">
                                         微糖 Quarter Sugar
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="sweetnessLevel" id="sugarFree">
+                                    <input class="form-check-input" type="radio" name="sweetness" id="sugarFree" value="無糖 Sugar-Free">
                                     <label class="form-check-label" for="sugarFree">
                                         無糖 Sugar-Free
-                                    </label>
-                                </div>
-                                <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="sweetnessLevel" id="hot">
-                                    <label class="form-check-label" for="hot">
-                                        熱 Hot
                                     </label>
                                 </div>
                             </div>
