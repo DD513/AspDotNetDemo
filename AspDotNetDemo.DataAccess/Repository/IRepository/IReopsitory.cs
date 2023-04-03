@@ -10,7 +10,7 @@ namespace AspDotNetDemo.DataAccess.Repository.IRepository
     public interface IRepository<T> where T : class
     {
         //T - Category
-        T GetFirstOrDefault(Expression<Func<T, bool>> filter, string? includeProperties = null); //本次修改部分
+        T GetFirstOrDefault(Expression<Func<T, bool>> filter, string? includeProperties = null, bool tracked = true); //本次修改部分
         IEnumerable<T> GetAll(Expression<Func<T, bool>>? filter = null, string? includeProperties = null);
         void Add(T entity);
         void Remove(T entity);

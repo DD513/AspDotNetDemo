@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ENWuaijn98EUf0AeRvJu5SWEwnle+IoBqEej0n3oees=",
+  "Hash": "dA6KN0GpBVqmZphTsp51H+cSmmADRKAstQAm3PBC0Ao=",
   "Source": "AspDotNetDemo",
   "BasePath": "_content/AspDotNetDemo",
   "Mode": "Default",
@@ -1222,6 +1222,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\company.js"
+    },
+    {
+      "Identity": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo\\wwwroot\\js\\order.js",
+      "SourceId": "AspDotNetDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo\\wwwroot\\",
+      "BasePath": "_content/AspDotNetDemo",
+      "RelativePath": "js/order.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\order.js"
     },
     {
       "Identity": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo\\wwwroot\\js\\product.js",
