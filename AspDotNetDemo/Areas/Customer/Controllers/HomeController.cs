@@ -1,5 +1,6 @@
 ﻿using AspDotNetDemo.DataAccess.Repository.IRepository;
 using AspDotNetDemo.Models;
+using AspDotNetDemo.Utility;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -53,15 +54,19 @@ namespace AspDotNetDemo.Areas.Customer.Controllers
 
             if (cartFromDb == null)
             {
+                // 本次修改部分
                 _unitOfWork.ShoppingCart.Add(shoppingCart);
+                _unitOfWork.Save();
+                HttpContext.Session.SetInt32(SD.SessionCart, 
+                    _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == claim.Value).ToList().Count());
             }
             else
             {
+                // 本次修改部分
                 _unitOfWork.ShoppingCart.UpdateIceAndSweetness(shoppingCart);
+                _unitOfWork.Save();
                 _unitOfWork.ShoppingCart.IncrementCount(cartFromDb, shoppingCart.Count);
             }
-            _unitOfWork.Save();
-
             return RedirectToAction(nameof(Index));
         }
 

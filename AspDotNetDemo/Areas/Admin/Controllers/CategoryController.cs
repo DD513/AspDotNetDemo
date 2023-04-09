@@ -1,11 +1,14 @@
 ﻿using AspDotNetDemo.DataAccess;
 using AspDotNetDemo.DataAccess.Repository.IRepository;
 using AspDotNetDemo.Models;
+using AspDotNetDemo.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AspDotNetDemo.Areas.Admin.Controllers
 {
-    [Area("Admin")] // 本次新增程式碼
+    [Area("Admin")] 
+    [Authorize(Roles = SD.Role_Admin)]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
