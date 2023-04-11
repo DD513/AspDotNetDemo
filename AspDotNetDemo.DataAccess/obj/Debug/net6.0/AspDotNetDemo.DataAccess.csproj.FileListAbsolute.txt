@@ -49,3 +49,5 @@ C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\
 C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.pdb
 C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\AspDotNetDemo.DataAccess.genruntimeconfig.cache
 C:\Users\LDS-ASUS\Desktop\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\obj\Debug\net6.0\ref\AspDotNetDemo.DataAccess.dll
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\bin\Debug\net6.0\AspDotNetDemo.Utility.dll
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.DataAccess\bin\Debug\net6.0\AspDotNetDemo.Utility.pdb

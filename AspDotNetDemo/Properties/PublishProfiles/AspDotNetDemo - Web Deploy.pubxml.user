@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此檔案由您的 Web 專案發佈/封裝處理序使用。您可以藉由編輯此 MSBuild 檔案，
+自訂此處理序的行為。若要深入了解，請前往 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuK5mql3Vck2SwTW0j3FTNwAAAAACAAAAAAAQZgAAAAEAACAAAADe/gOpAwLKFkI1ZpEltnACz3T26VaMxYsRkvc+SjRAkQAAAAAOgAAAAAIAACAAAAAYvrtt+IYqChm+e32AyTZF7Pu/Xka4BPl+/NU7NhbzG4AAAABi/WFd2Yrj2wevuqRWXeT5Lkt+0FGqnOOxr8DiKmaDdxfvZiGtefFQjGfKY0A/2pfzS6l6KlKc/dmz1/DpZKgnGNZm9RzJeNZtagMvGR4gB1NZcsfzhKm08oDTCUYbwf1pHJsctkYEbddOFL3w0FTrVsBz1KLDFlTqmpT5aEkA2UAAAAB1ZokJyek0HSqm3KDaJPTXohpD5XZKXsJ6tza7BDaiLQrWrA0VS9BrCOygjprDIgi8pHDp5TnUvudQK6UPQDcX</EncryptedPassword>
+    <History>True|2023-04-11T13:34:09.1660230Z;True|2023-04-11T21:07:49.5691371+08:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:aspdotnetdemoserver.database.windows.net,1433%3bInitial Catalog=AspDotNetDemo_db%3bPersist Security Info=False%3bUser ID=aspdotnetdemo%3bPassword=Admin123%2a%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

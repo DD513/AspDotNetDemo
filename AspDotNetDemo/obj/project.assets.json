@@ -3737,6 +3737,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "AspDotNetDemo.Models": "1.0.0",
+          "AspDotNetDemo.Utility": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.14",
           "Microsoft.EntityFrameworkCore": "6.0.14",
           "Microsoft.EntityFrameworkCore.Relational": "6.0.14",

@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AspDotNetDemo.Models\AspDotNetDemo.Models.csproj" />
+    <ProjectReference Include="..\AspDotNetDemo.Utility\AspDotNetDemo.Utility.csproj" />
   </ItemGroup>
 
 </Project>

@@ -34,6 +34,9 @@
             "projectReferences": {
               "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj": {
                 "projectPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Models\\AspDotNetDemo.Models.csproj"
+              },
+              "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Utility\\AspDotNetDemo.Utility.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\School\\Project\\Net\\Demo\\AspDotNetDemo\\AspDotNetDemo.Utility\\AspDotNetDemo.Utility.csproj"
               }
             }
           }

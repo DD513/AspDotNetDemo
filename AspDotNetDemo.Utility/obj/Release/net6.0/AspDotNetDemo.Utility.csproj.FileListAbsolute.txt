@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Utility\bin\Release\net6.0\AspDotNetDemo.Utility.deps.json
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Utility\bin\Release\net6.0\AspDotNetDemo.Utility.dll
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Utility\bin\Release\net6.0\AspDotNetDemo.Utility.pdb
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Utility\obj\Release\net6.0\AspDotNetDemo.Utility.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Utility\obj\Release\net6.0\AspDotNetDemo.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Utility\obj\Release\net6.0\AspDotNetDemo.Utility.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Utility\obj\Release\net6.0\AspDotNetDemo.Utility.AssemblyInfo.cs
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Utility\obj\Release\net6.0\AspDotNetDemo.Utility.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Utility\obj\Release\net6.0\AspDotNetDemo.Utility.dll
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Utility\obj\Release\net6.0\refint\AspDotNetDemo.Utility.dll
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Utility\obj\Release\net6.0\AspDotNetDemo.Utility.pdb
+C:\Users\USER\Desktop\School\Project\Net\Demo\AspDotNetDemo\AspDotNetDemo.Utility\obj\Release\net6.0\ref\AspDotNetDemo.Utility.dll
